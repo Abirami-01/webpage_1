@@ -1,0 +1,71 @@
+
+a:hover{
+
+  background-color: orange;
+}
+i:hover{
+  background-color: green;
+}
+p
+{
+  font-family: 'Montserrat-dark', sans-serif;
+  font-size:1rem;
+  line-height: 2rem;
+
+}
+img {
+  max-width: 100%;
+  border-radius: 1px; 
+ }
+ .top-container{
+background-color: green;
+ }
+ .navigation
+ { position: fixed;
+ background-color: green; 
+  }
+  .card1 {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+  font-family: 'Gowun Batang', serif;
+}
+.card2{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  margin: 8px;
+  background-color:green; 
+}
+
+.about-section {
+  padding: 50px;
+  text-align: center;
+  background-color:green ;
+  color: white;
+}
+
+.contact{
+
+  position:absolute;
+  right:0px;
+  position:fixed;
+  background-color: purple;
+  z-index:4;
+  
+}
+
+.nav-item{
+  font-family:'Gowun Batang', serif;
+
+}
+
+a{ 
+  text-decoration: none;
+  color:white;
+ }
+
+ .nav-link{
+  color: yellow;
+ }
+
+ .col-lg-8{
+  color: white;
+ }
